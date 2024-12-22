@@ -1,4 +1,4 @@
-[LIVE LINK](movie-app-eight-lyart.vercel.app)
+[LIVE LINK](movie-nkzqj6rdy-yash-sainanis-projects.vercel.app)
 
 # React + Vite
 
